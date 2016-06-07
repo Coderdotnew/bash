@@ -25,7 +25,7 @@ The Cloud9 Terminal is positioned at the bottom of your window with an open tab 
  
 ![1](http://i.imgur.com/hGcgtLy.png)
 
-###### Note: Each Terminal open is referred to as a **shell**. You can open a new shell by clicking the `+` button near the current open tab and selecting `New Terminal`.   
+Note: Each Terminal open is referred to as a **shell**. You can open a new shell by clicking the `+` button near the current open tab and selecting `New Terminal`.   
 
 
 # bash_commands
