@@ -25,12 +25,11 @@ The Cloud9 Terminal is positioned at the bottom of your window with an open tab 
  
 ![1](http://i.imgur.com/hGcgtLy.png)
 
-Note: Each Terminal open is referred to as a **shell**. You can open a new shell by clicking the `+` button near the current open tab and selecting `New Terminal`.   
+###### Note: Each Terminal open is referred to as a **shell**. You can open a new shell by clicking the `+` button near the current open tab and selecting `New Terminal`.   
 
 
 # bash_commands
-To run a Bash script command, enter the command into the Terminal shell and press `enter`. Below is a list of useful Bash scripting commands to run in your Terminal shell:  
-
+To run a Bash script command, enter the command into the Terminal shell and press `enter`. Below is a list of useful Bash scripting commands to run in your Terminal shell: 
 | Action                                                                  | Keybinding              |
 |-------------------------------------------------------------------------|-------------------------| 
 | Clear Shell Screen                                                      | clear                   |
@@ -46,4 +45,7 @@ To run a Bash script command, enter the command into the Terminal shell and pres
 | Run a Ruby file                                                         | ruby file_name.rb       |
 
 These commands will become second nature to you as you progress with your programming and I bet you will become more efficient navigating a command line than using a mouse!
+
+##### Now start scripting! Don't be bashful... 
+![2](http://i.imgur.com/iM4CI8m.gif)
 
