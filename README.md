@@ -29,7 +29,8 @@ The Cloud9 Terminal is positioned at the bottom of your window with an open tab 
 
 
 # bash_commands
-To run a Bash script command, enter the command into the Terminal shell and press `enter`. Below is a list of useful Bash scripting commands to run in your Terminal shell: 
+To run a Bash script command, enter the command into the Terminal shell and press `enter`. Below is a list of useful Bash scripting commands to run in your Terminal shell:  
+
 | Action                                                                  | Keybinding              |
 |-------------------------------------------------------------------------|-------------------------| 
 | Clear Shell Screen                                                      | clear                   |
