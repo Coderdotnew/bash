@@ -50,3 +50,5 @@ These commands will become second nature to you as you progress with your progra
 ##### Now start scripting! Don't be bashful... 
 ![2](http://i.imgur.com/iM4CI8m.gif)
 
+---  
+[Course home](https://github.com/Coderdotnew/intro_web_apps_001) 
